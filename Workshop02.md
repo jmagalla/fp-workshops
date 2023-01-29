@@ -1,4 +1,4 @@
-# u67: Actividad: Desafío Pokemon 
+# Workshop 2: Dictionaries and text Files 
 ## Objetivo
 
 Implementar un programa que utilice funciones, y colecciones para el cálculo del ataque efectivo de un pokemon frente a otro y determinar el ganador del ataque.
