@@ -1,4 +1,4 @@
-# u2t1: Cadenas, Listas y Funciones  
+# Workshop 1: Strings, Lists and Functions 
 
 ## Ejercicio 1
 
