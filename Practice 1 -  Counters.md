@@ -1,4 +1,4 @@
-# Juego de disparos 
+# Práctica 2: Juego de disparos-Contadores y Banderas 
 
 ## Objetivo
 
